@@ -112,6 +112,8 @@ Production:
 - [Bigblue’s multi-model database on FoundationDB](https://medium.com/bigblue-engineering/bigblues-multi-model-database-on-foundationdb-5c54b8d61942) (medium.com)
 - [Skipping the boring parts of building a database using FoundationDB](https://blog.tigrisdata.com/building-a-database-using-foundationdb)
 - [How we built our data layer on FoundationDB](https://blog.tigrisdata.com/data-layer-foundationdb)
+- [True idempotent transactions with FoundationDB 7.3](https://pierrezemb.fr/posts/automatic-txn-fdb-730/)
+- [Redwood’s memory tuning in FoundationDB](https://pierrezemb.fr/posts/redwood-memory-tuning/)
 
 ### Talks
 
